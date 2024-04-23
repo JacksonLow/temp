@@ -1,0 +1,10 @@
+15:45:14 **** Incremental Build of configuration Debug for project lab7_morse ****
+make -j9 all 
+arm-none-eabi-size  lab7_morse.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13120	     12	   1724	  14856	   3a08	lab7_morse.elf
+Finished building: default.size.stdout
+ 
+
+15:45:14 Build Finished. 0 errors, 0 warnings. (took 403ms)
+

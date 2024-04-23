@@ -1,0 +1,10 @@
+15:52:02 **** Incremental Build of configuration Debug for project lab7_uart ****
+make -j9 all 
+arm-none-eabi-size  lab7_uart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13840	     44	   1764	  15648	   3d20	lab7_uart.elf
+Finished building: default.size.stdout
+ 
+
+15:52:02 Build Finished. 0 errors, 0 warnings. (took 257ms)
+
